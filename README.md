@@ -6,7 +6,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a first year student at **Wrocław University of Science and Technology** with faculty of Applied Computer Science.
      
-- 📝 I really enjoy creating my own projects, and i love plahing with new technologies.
+- 📝 I really enjoy creating my own projects, and i love playing with new technologies.
 - 💻 I use: **.cpp**,**.py**, **.java**
 - 👯 We can connect to play some Minecraft :))
 - ⚡ Fun fact: i love sports 💪
