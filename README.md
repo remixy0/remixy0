@@ -27,6 +27,8 @@
 ![PCB](https://img.shields.io/badge/PCB_Design-006600?logo=ipc&logoColor=white)
 ![Soldering](https://img.shields.io/badge/Soldering-FFA000?logo=googlesheets&logoColor=white)
 ![Electronics](https://img.shields.io/badge/Electronics-222222?logo=electron&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-FF6600?logo=3d&logoColor=white)
+![CAD Software](https://img.shields.io/badge/CAD_Software-007ACC?logo=autodesk&logoColor=white)
 
 ### Platforms
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
